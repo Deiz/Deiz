@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-Currently building at [Synctera](https://synctera.com/) - [we're hiring](https://www.synctera.com/careers)!
+Currently building at [Synctera](https://synctera.com/) - [we're hiring](https://www.synctera.com/jobs)!
 
 Formerly [@Taplytics](https://taplytics.com/), [@Instacart](https://news.instacart.com/), [@Koho](https://www.koho.ca/), [@Figure1](https://www.figure1.com/)
 
